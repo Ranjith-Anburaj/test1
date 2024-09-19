@@ -1,1 +1,1 @@
-python
+python is a easy language to learn
